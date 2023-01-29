@@ -1,3 +1,4 @@
 rootProject.name = 'groovy-12-2022'
 include 'hw01-gradle'
+include 'hw02-gradle'
 
